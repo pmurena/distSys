@@ -33,12 +33,10 @@ public class Terminator{
 	
 	private Map<Address, Integer> transaction;
 	private int coins;
-	private Map<String, SnapShot> snapshots;
 	
 	public Terminator(){
 		this.coins = Terminator.INIT_COINS;
 		this.transaction = new LinkedHashMap<Address, Integer>();
-		this.snapshots = new LinkedHashMap<String, SnapShot>();
 	}
 
 	private void addCoin(CoinExchanger ch, Message msg){
@@ -66,16 +64,6 @@ public class Terminator{
 		ch.updateThreadState();
 		System.out.println("** Got Ack from " + src + ", now I have " + this.toString());
 		
-		// Start snapshot if the time has come...
-		if(SnapShot.trigger(this.getCoinsCount(), ch.currentView)){
-			try {
-				ch.channel.send(new Message(null, new Marker(ch.channel.getProtocolStack().getTransport().getLocalAddress())));
-				System.out.println("** Sent a global state request");
-			} catch (Exception e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
-			}
-		}
 	}
 	
 	public String toString(){
@@ -133,13 +121,7 @@ public class Terminator{
 			break;
 		}
 
-		// Create snapShot if it doesn exists.
-		if(msg.getObject() instanceof Marker && !this.snapshots.containsKey(msg.getObject().toString())){
-			this.snapshots.put(msg.getObject().toString(), new SnapShot(this.getCoinsCount()));
-		}
-		
-		// pass the message to all active snapshots
-		for(Entry<>)
+
 
 	}
 	
