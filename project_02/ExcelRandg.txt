@@ -1,0 +1,2 @@
+Size	MaxN	W	DistM	AckM	StopM	ComputeT	TotalT
+13	5	1	41	41	35	 0.05059886	0.051363945

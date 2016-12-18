@@ -1,0 +1,2 @@
+Size	W	DistM	AckM 	StopM	ComputeT	TotalT
+7	1	6	6	6	0.002311945	0.040210962

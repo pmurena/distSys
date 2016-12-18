@@ -1,0 +1,349 @@
+
+
+-------------------------------------------------------------------
+GMS: address=pmu01-1353, cluster=CoinExchangerGroup, physical address=192.168.1.118:39461
+-------------------------------------------------------------------
+** New view: [pmu01-7187|57] (9) [pmu01-7187, pmu01-36512, pmu01-60117, pmu01-9353, pmu01-22212, pmu01-28572, pmu01-15694, pmu01-1353, pmu01-2707]
+** Transport layer TP: UDP(local address: pmu01-1353)
+** Total sent by TP: 7
+** Total received by TP: 15
+** Sent coin to pmu01-36512, now I have 2
+** Sent coin to pmu01-9353, now I have 1
+** Sent coin to pmu01-60117, now I have 0
+** Total sent by TP: 11
+** Total received by TP: 20
+** Exiting, I have: 0 coins
+
+-------------------------------------------------------------------
+GMS: address=pmu01-39264, cluster=CoinExchangerGroup, physical address=192.168.1.118:44183
+-------------------------------------------------------------------
+** New view: [pmu01-39264|0] (1) [pmu01-39264]
+** Transport layer TP: UDP(local address: pmu01-39264)
+** Total sent by TP: 1
+** Total received by TP: 0
+** Sent coin to pmu01-39264, now I have 2
+** Got coin from pmu01-39264, now I have 3
+** Sent coin to pmu01-39264, now I have 2
+** Got coin from pmu01-39264, now I have 3
+** New view: [pmu01-39264|1] (2) [pmu01-39264, pmu01-38831]
+** Sent coin to pmu01-39264, now I have 2
+** Got coin from pmu01-39264, now I have 3
+** Got coin from pmu01-38831, now I have 4
+** Sent coin to pmu01-39264, now I have 3
+** Got coin from pmu01-39264, now I have 4
+** New view: [pmu01-39264|2] (3) [pmu01-39264, pmu01-38831, pmu01-28541]
+** Sent coin to pmu01-28541, now I have 3
+** Sent coin to pmu01-28541, now I have 2
+** Got coin from pmu01-28541, now I have 3
+** Sent coin to pmu01-28541, now I have 2
+** New view: [pmu01-39264|3] (2) [pmu01-39264, pmu01-28541]
+** Sent coin to pmu01-39264, now I have 1
+** Got coin from pmu01-39264, now I have 2
+** Got coin from pmu01-28541, now I have 3
+** Sent coin to pmu01-28541, now I have 2
+** Got coin from pmu01-28541, now I have 3
+** Sent coin to pmu01-28541, now I have 2
+** Got coin from pmu01-28541, now I have 3
+** Sent coin to pmu01-39264, now I have 2
+** Got coin from pmu01-39264, now I have 3
+** Sent coin to pmu01-39264, now I have 2
+** Got coin from pmu01-39264, now I have 3
+** Got coin from pmu01-28541, now I have 4
+** Sent coin to pmu01-39264, now I have 3
+** Got coin from pmu01-39264, now I have 4
+** Sent coin to pmu01-39264, now I have 3
+** Got coin from pmu01-39264, now I have 4
+** Got coin from pmu01-28541, now I have 5
+** Sent coin to pmu01-28541, now I have 4
+** Sent coin to pmu01-28541, now I have 3
+** Got coin from pmu01-28541, now I have 4
+** Sent coin to pmu01-28541, now I have 3
+** Got coin from pmu01-28541, now I have 4
+** Sent coin to pmu01-39264, now I have 3
+** Got coin from pmu01-39264, now I have 4
+** Got coin from pmu01-28541, now I have 5
+** Sent coin to pmu01-28541, now I have 4
+** Got coin from pmu01-28541, now I have 5
+** Sent coin to pmu01-39264, now I have 4
+** Got coin from pmu01-39264, now I have 5
+** Got coin from pmu01-28541, now I have 6
+** Sent coin to pmu01-39264, now I have 5
+** Got coin from pmu01-39264, now I have 6
+** Sent coin to pmu01-39264, now I have 5
+** Got coin from pmu01-39264, now I have 6
+** Sent coin to pmu01-39264, now I have 5
+** Got coin from pmu01-39264, now I have 6
+** Got coin from pmu01-28541, now I have 7
+** Sent coin to pmu01-28541, now I have 6
+** Got coin from pmu01-28541, now I have 7
+** Sent coin to pmu01-39264, now I have 6
+** Got coin from pmu01-39264, now I have 7
+** Got coin from pmu01-28541, now I have 8
+** Sent coin to pmu01-39264, now I have 7
+** Got coin from pmu01-39264, now I have 8
+** Sent coin to pmu01-39264, now I have 7
+** Got coin from pmu01-39264, now I have 8
+** New view: [pmu01-39264|4] (1) [pmu01-39264]
+** Sent coin to pmu01-39264, now I have 7
+** Got coin from pmu01-39264, now I have 8
+** Total sent by TP: 53
+** Total received by TP: 43
+** Exiting, I have: 8 coins
+
+-------------------------------------------------------------------
+GMS: address=pmu01-33519, cluster=CoinExchangerGroup, physical address=192.168.1.118:39161
+-------------------------------------------------------------------
+** New view: [pmu01-33519|0] (1) [pmu01-33519]
+** Transport layer TP: UDP(local address: pmu01-33519)
+** Total sent by TP: 3
+** Total received by TP: 3
+** Sent coin to pmu01-33519, now I have 2
+** Got coin from pmu01-33519, now I have 3
+** New view: [pmu01-33519|1] (3) [pmu01-33519, pmu01-5800, pmu01-43750]
+** Sent coin to pmu01-33519, now I have 2
+** Got coin from pmu01-33519, now I have 3
+** Sent coin to pmu01-33519, now I have 2
+** Got coin from pmu01-33519, now I have 3
+** Got coin from pmu01-5800, now I have 4
+** Sent coin to pmu01-43750, now I have 3
+** Got coin from pmu01-43750, now I have 4
+** Got coin from pmu01-5800, now I have 5
+** Sent coin to pmu01-33519, now I have 4
+** Got coin from pmu01-33519, now I have 5
+** Sent coin to pmu01-5800, now I have 4
+** Got coin from pmu01-43750, now I have 5
+** Got coin from pmu01-5800, now I have 6
+** Sent coin to pmu01-5800, now I have 5
+** Got coin from pmu01-43750, now I have 6
+** Sent coin to pmu01-43750, now I have 5
+** New view: [pmu01-33519|2] (2) [pmu01-33519, pmu01-5800]
+** Sent coin to pmu01-33519, now I have 4
+** Got coin from pmu01-33519, now I have 5
+** Sent coin to pmu01-33519, now I have 4
+** Got coin from pmu01-33519, now I have 5
+** Sent coin to pmu01-5800, now I have 4
+** Got coin from pmu01-5800, now I have 5
+** Sent coin to pmu01-33519, now I have 4
+** Got coin from pmu01-33519, now I have 5
+** Got coin from pmu01-5800, now I have 6
+** Sent coin to pmu01-33519, now I have 5
+** Got coin from pmu01-33519, now I have 6
+** Sent coin to pmu01-33519, now I have 5
+** Got coin from pmu01-33519, now I have 6
+** New view: [pmu01-33519|3] (1) [pmu01-33519]
+** Sent coin to pmu01-33519, now I have 5
+** Got coin from pmu01-33519, now I have 6
+** Total sent by TP: 38
+** Total received by TP: 34
+** Exiting, I have: 6 coins
+
+-------------------------------------------------------------------
+GMS: address=pmu01-11636, cluster=CoinExchangerGroup, physical address=192.168.1.118:58301
+-------------------------------------------------------------------
+** New view: [pmu01-56023|1] (3) [pmu01-56023, pmu01-11636, pmu01-39372]
+** Transport layer TP: UDP(local address: pmu01-11636)
+** Total sent by TP: 10
+** Total received by TP: 13
+** Sent coin to pmu01-39372, now I have 2
+** Got coin from pmu01-39372, now I have 3
+** Sent coin to pmu01-39372, now I have 2
+** Sent coin to pmu01-56023, now I have 1
+** Sent coin to pmu01-11636, now I have 0
+** Got coin from pmu01-11636, now I have 1
+** Total sent by TP: 15
+** Total received by TP: 19
+** Exiting, I have: 1 coins
+
+-------------------------------------------------------------------
+GMS: address=pmu01-6923, cluster=CoinExchangerGroup, physical address=192.168.1.118:50502
+-------------------------------------------------------------------
+** New view: [pmu01-6923|0] (1) [pmu01-6923]
+** Transport layer TP: UDP(local address: pmu01-6923)
+** Total sent by TP: 3
+** Total received by TP: 3
+** Sent coin to pmu01-6923, now I have 2
+** Got coin from pmu01-6923, now I have 3
+** New view: [pmu01-6923|1] (3) [pmu01-6923, pmu01-24335, pmu01-5850]
+** Got coin from pmu01-5850, now I have 4
+** Sent coin to pmu01-5850, now I have 3
+** Got coin from pmu01-5850, now I have 4
+** Got coin from pmu01-24335, now I have 5
+** Sent coin to pmu01-24335, now I have 4
+** Got coin from pmu01-5850, now I have 5
+** Sent coin to pmu01-6923, now I have 4
+** Got coin from pmu01-6923, now I have 5
+** Sent coin to pmu01-5850, now I have 4
+** Got coin from pmu01-5850, now I have 5
+** Sent coin to pmu01-5850, now I have 4
+** New view: [pmu01-6923|2] (2) [pmu01-6923, pmu01-5850]
+** Sent coin to pmu01-5850, now I have 3
+** Got coin from pmu01-5850, now I have 4
+** Sent coin to pmu01-6923, now I have 3
+** Got coin from pmu01-6923, now I have 4
+** Got coin from pmu01-5850, now I have 5
+** Sent coin to pmu01-6923, now I have 4
+** Got coin from pmu01-6923, now I have 5
+** Got coin from pmu01-5850, now I have 6
+** Sent coin to pmu01-6923, now I have 5
+** Got coin from pmu01-6923, now I have 6
+** Sent coin to pmu01-6923, now I have 5
+** Got coin from pmu01-6923, now I have 6
+** Got coin from pmu01-6923, now I have 7
+** Sent coin to pmu01-6923, now I have 6
+** Got coin from pmu01-5850, now I have 7
+** Sent coin to pmu01-6923, now I have 6
+** Got coin from pmu01-6923, now I have 7
+** Sent coin to pmu01-5850, now I have 6
+** New view: [pmu01-6923|3] (1) [pmu01-6923]
+** Sent coin to pmu01-6923, now I have 5
+** Got coin from pmu01-6923, now I have 6
+** Total sent by TP: 39
+** Total received by TP: 34
+** Exiting, I have: 6 coins
+
+-------------------------------------------------------------------
+GMS: address=pmu01-27858, cluster=CoinExchangerGroup, physical address=192.168.1.118:46226
+-------------------------------------------------------------------
+** New view: [pmu01-63901|1] (3) [pmu01-63901, pmu01-8389, pmu01-27858]
+** Transport layer TP: UDP(local address: pmu01-27858)
+** Total sent by TP: 8
+** Total received by TP: 11
+** Sent coin to pmu01-63901, now I have 2
+** Sent coin to pmu01-27858, now I have 1
+** Got coin from pmu01-27858, now I have 2
+** Got coin from pmu01-63901, now I have 3
+** Sent coin to pmu01-63901, now I have 2
+** Got coin from pmu01-63901, now I have 3
+** Sent coin to pmu01-63901, now I have 2
+** Got coin from pmu01-8389, now I have 3
+** Sent coin to pmu01-63901, now I have 2
+** Got coin from pmu01-63901, now I have 3
+** Sent coin to pmu01-27858, now I have 2
+** Got coin from pmu01-27858, now I have 3
+** New view: [pmu01-63901|2] (2) [pmu01-63901, pmu01-27858]
+** Got coin from pmu01-63901, now I have 4
+** Sent coin to pmu01-27858, now I have 3
+** Got coin from pmu01-27858, now I have 4
+** Got coin from pmu01-63901, now I have 5
+** Sent coin to pmu01-27858, now I have 4
+** Got coin from pmu01-27858, now I have 5
+** Got coin from pmu01-63901, now I have 6
+** Sent coin to pmu01-63901, now I have 5
+** Sent coin to pmu01-63901, now I have 4
+** Sent coin to pmu01-63901, now I have 3
+** Sent coin to pmu01-63901, now I have 2
+** Got coin from pmu01-63901, now I have 3
+** Sent coin to pmu01-27858, now I have 2
+** Got coin from pmu01-27858, now I have 3
+** Got coin from pmu01-63901, now I have 4
+** Sent coin to pmu01-63901, now I have 3
+** Got coin from pmu01-63901, now I have 4
+** Sent coin to pmu01-63901, now I have 3
+** Sent coin to pmu01-27858, now I have 2
+** Got coin from pmu01-27858, now I have 3
+** Got coin from pmu01-63901, now I have 4
+** Sent coin to pmu01-27858, now I have 3
+** Got coin from pmu01-27858, now I have 4
+** Got coin from pmu01-63901, now I have 5
+** Sent coin to pmu01-63901, now I have 4
+** Got coin from pmu01-63901, now I have 5
+** Sent coin to pmu01-27858, now I have 4
+** Got coin from pmu01-27858, now I have 5
+** Sent coin to pmu01-63901, now I have 4
+** Got coin from pmu01-63901, now I have 5
+** Sent coin to pmu01-27858, now I have 4
+** Got coin from pmu01-27858, now I have 5
+** Sent coin to pmu01-27858, now I have 4
+** Got coin from pmu01-27858, now I have 5
+** Got coin from pmu01-63901, now I have 6
+** Sent coin to pmu01-27858, now I have 5
+** Got coin from pmu01-27858, now I have 6
+** Got coin from pmu01-63901, now I have 7
+** Sent coin to pmu01-63901, now I have 6
+** Sent coin to pmu01-27858, now I have 5
+** Got coin from pmu01-27858, now I have 6
+** Sent coin to pmu01-27858, now I have 5
+** Got coin from pmu01-27858, now I have 6
+** Sent coin to pmu01-63901, now I have 5
+** Got coin from pmu01-63901, now I have 6
+** Sent coin to pmu01-27858, now I have 5
+** Got coin from pmu01-27858, now I have 6
+** Got coin from pmu01-63901, now I have 7
+** Sent coin to pmu01-63901, now I have 6
+** Got coin from pmu01-63901, now I have 7
+** Sent coin to pmu01-27858, now I have 6
+** Got coin from pmu01-27858, now I have 7
+** Got coin from pmu01-63901, now I have 8
+** Sent coin to pmu01-27858, now I have 7
+** Got coin from pmu01-27858, now I have 8
+** Got coin from pmu01-63901, now I have 9
+** Sent coin to pmu01-63901, now I have 8
+** New view: [pmu01-27858|3] (1) [pmu01-27858]
+** Sent coin to pmu01-27858, now I have 7
+** Got coin from pmu01-27858, now I have 8
+** Total sent by TP: 54
+** Total received by TP: 57
+** Exiting, I have: 8 coins
+
+-------------------------------------------------------------------
+GMS: address=pmu01-34604, cluster=CoinExchangerGroup, physical address=192.168.1.118:35986
+-------------------------------------------------------------------
+** New view: [pmu01-17923|1] (3) [pmu01-17923, pmu01-36487, pmu01-34604]
+** Transport layer TP: UDP(local address: pmu01-34604)
+** Total sent by TP: 9
+** Total received by TP: 11
+** Sent coin to pmu01-17923, now I have 2
+** Got coin from pmu01-36487, now I have 3
+** Got coin from pmu01-17923, now I have 4
+** Sent coin to pmu01-17923, now I have 3
+** Got coin from pmu01-34604, now I have 4
+** Sent coin to pmu01-34604, now I have 3
+** Got coin from pmu01-36487, now I have 4
+** Got coin from pmu01-17923, now I have 5
+** Sent coin to pmu01-36487, now I have 4
+** New view: [pmu01-17923|2] (2) [pmu01-17923, pmu01-34604]
+** Got coin from pmu01-17923, now I have 5
+** Sent coin to pmu01-17923, now I have 4
+** Sent coin to pmu01-17923, now I have 3
+** Got coin from pmu01-17923, now I have 4
+** Sent coin to pmu01-34604, now I have 3
+** Got coin from pmu01-34604, now I have 4
+** Got coin from pmu01-17923, now I have 5
+** Sent coin to pmu01-17923, now I have 4
+** Got coin from pmu01-17923, now I have 5
+** Sent coin to pmu01-34604, now I have 4
+** Got coin from pmu01-34604, now I have 5
+** Got coin from pmu01-17923, now I have 6
+** Sent coin to pmu01-34604, now I have 5
+** Got coin from pmu01-34604, now I have 6
+** Sent coin to pmu01-34604, now I have 5
+** Got coin from pmu01-34604, now I have 6
+** Got coin from pmu01-17923, now I have 7
+** Sent coin to pmu01-17923, now I have 6
+** Got coin from pmu01-17923, now I have 7
+** Sent coin to pmu01-17923, now I have 6
+** Sent coin to pmu01-17923, now I have 5
+** Sent coin to pmu01-17923, now I have 4
+** Got coin from pmu01-17923, now I have 5
+** Sent coin to pmu01-34604, now I have 4
+** Got coin from pmu01-34604, now I have 5
+** Got coin from pmu01-17923, now I have 6
+** Sent coin to pmu01-17923, now I have 5
+** Sent coin to pmu01-34604, now I have 4
+** Got coin from pmu01-34604, now I have 5
+** Sent coin to pmu01-34604, now I have 4
+** Got coin from pmu01-34604, now I have 5
+** Got coin from pmu01-17923, now I have 6
+** Sent coin to pmu01-34604, now I have 5
+** Got coin from pmu01-34604, now I have 6
+** Got coin from pmu01-17923, now I have 7
+** Sent coin to pmu01-34604, now I have 6
+** Got coin from pmu01-34604, now I have 7
+** Sent coin to pmu01-34604, now I have 6
+** Got coin from pmu01-34604, now I have 7
+** New view: [pmu01-34604|3] (1) [pmu01-34604]
+** Sent coin to pmu01-34604, now I have 6
+** Got coin from pmu01-34604, now I have 7
+** Total sent by TP: 61
+** Total received by TP: 44
+** Exiting, I have: 7 coins

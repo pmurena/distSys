@@ -1,0 +1,2 @@
+Size	K0	K1	K2	W	DistM	AckM 	StopM	ComputeT	TotalT
+9	1	2	4	1	54	54	49	0.011913061	0.040511131
